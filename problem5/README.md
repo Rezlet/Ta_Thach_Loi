@@ -29,19 +29,19 @@ MONGO_URI=<I will give you at email>
 3. Start the backend server:\
 
 ```bash
-    npm start
+npm start
 ```
 The server will start at http://localhost:8080.
 ## Setup Frontend
 1. Navigate to the backend folder and get library:
 ``` bash
-cd backend
+cd frontend
 npm install
 ```
 
 2. Start the Frontend server:
 ```bash
-    npm run dev
+npm run dev
 ```
 
 The server will start at http://localhost:5173.

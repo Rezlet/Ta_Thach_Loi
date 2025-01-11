@@ -17,12 +17,17 @@ To run the project, make sure you have the following installed:
    cd <project-directory>
    ```
 
-   npm install
-
+  
+   Install package
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+    npm install
    ```
+
+   Run Server
+   ```bash
+    npm run dev
+   ```
+
 
 ### Functionality
 Currency Selection: Users can select the "From" and "To" currencies from a dropdown.
